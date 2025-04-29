@@ -62,4 +62,4 @@ A simple desktop application for macOS to transcribe audio files using the Groq 
 
 ## License
 
-[Choose a License - e.g., MIT License]
+[MIT License]
