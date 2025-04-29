@@ -1,0 +1,31 @@
+# Virtual environment
+venv/
+*.venv/
+env/
+ENV/
+
+# PyInstaller build artifacts
+build/
+dist/
+*.spec
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# macOS specific files
+.DS_Store
+
+# Configuration file containing secrets (IMPORTANT!)
+# Assuming it's in ~/Library/Application Support/TranscriberApp/config.json
+# We can't directly ignore files outside the repo,
+# but ensure the code loads it from outside and DON'T commit any default/example config with secrets.
+# If you ever accidentally create a config.json inside the project dir:
+config.json
+
+# IDE / Editor specific files (optional examples)
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace

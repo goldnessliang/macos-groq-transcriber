@@ -1,0 +1,3 @@
+([('TranscriberApp',
+   '/Users/goodnessliang/Desktop/TranscriptionApp/dist/TranscriberApp',
+   'EXECUTABLE')],)
